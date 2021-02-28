@@ -9,7 +9,8 @@
 :Imagesdir: image
 
 
-image:: image/AC.jpg[alt=ac,width=350px][orientation=portrait]
+image :: AC.jpg[alt=ac,width=350px][orientation=portrait] 
+
 Zoo is meant to entertain and educate the public. Zoo has a strong emphasis on scientific research and species conservation.
 
 ## What is the purpose of ZOO?
