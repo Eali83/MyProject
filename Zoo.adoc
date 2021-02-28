@@ -1,4 +1,4 @@
-#Zoo is the title of my first project.  
+# Zoo is the title of my first project.  
 
 Zoo is meant to entertain and educate the public. Zoo has a strong emphasis on scientific research and species conservation.
 
