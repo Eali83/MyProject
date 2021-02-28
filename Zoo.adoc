@@ -9,7 +9,6 @@
 :Imagesdir: image
 
 
-image :: AC.jpg[alt=ac,width=350px][orientation=portrait] 
 
 Zoo is meant to entertain and educate the public. Zoo has a strong emphasis on scientific research and species conservation.
 
@@ -33,3 +32,6 @@ The languages using throught this mission are: HTML, CSS, jQuery and JavaScript.
 Web,Location,Environment,URL,Status,Version
 {ZOO_WEB},{ZOO_LOC},{ZOO_ENV},{ZOO_URL},{ZOO_STATUS},{ZOO_VERSION}
 |==========================|
+
+image :: AC.jpg[alt=ac,width=350px][orientation=portrait] 
+
