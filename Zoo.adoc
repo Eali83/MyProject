@@ -8,6 +8,8 @@
 :ZOO_VERSION: 1.0.1
 :Imagesdir: image
 
++
+image:: Chee.jpg
 Zoo is meant to entertain and educate the public. Zoo has a strong emphasis on scientific research and species conservation.
 
 ## What is the purpose of ZOO?
