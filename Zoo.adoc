@@ -27,6 +27,6 @@ The languages using throught this mission are: HTML, CSS, jQuery and JavaScript.
 [grid="rows",format="csv"]
 [options="header",cols="^,<,<s,<,>m"]
 |==========================
-Web,Location,Environment<URL,Status,Version
+Web,Location,Environment,URL,Status,Version
 '{ZOO_WEB}','{ZOO_LOC}','{ZOO_ENV}','{ZOO_URL}','{ZOO_STATUS}','{ZOO_VERSION}'
 |==========================|
