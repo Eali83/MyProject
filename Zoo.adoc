@@ -10,4 +10,6 @@ Zoo & Aquarium strives to foster positive, lifelong connections between animals 
 
 ## Work project 
 This website is to show the software developer ability of how to create, develop and build website depending on the class tasks knowledge through this semester.
-The languages using throught this mission are: HTML, CSS,jQuery,and JavaScript. 
+
+## Languages:-
+The languages using throught this mission are: HTML, CSS, jQuery and JavaScript. 
