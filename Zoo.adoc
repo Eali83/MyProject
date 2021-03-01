@@ -10,7 +10,6 @@
 
 image::AC.jpg[alt=ac,width=500px][orientation=center] 
 
-
 Zoo is meant to entertain and educate the public. Zoo has a strong emphasis on scientific research and species conservation.
 
 ## What is the purpose of ZOO?
@@ -28,11 +27,10 @@ The languages using throught this mission are: HTML, CSS, jQuery and JavaScript.
 ## Website details:
 
 [grid="rows",format="csv"]
-
 |==========================
 Web,Location,Environment,URL,Status,Version
 {ZOO_WEB},{ZOO_LOC},{ZOO_ENV},{ZOO_URL},{ZOO_STATUS},{ZOO_VERSION}
 |==========================
 
 ## Adoc Strategy
-image::Fl.jpg[alt=ac,width=500px][orientation=portrait]
+image::Fl.jpg[alt=Fl,width=500px][orientation=portrait]
