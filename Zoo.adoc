@@ -33,4 +33,4 @@ Web,Location,Environment,URL,Status,Version
 |==========================
 
 ## Adoc Strategy
-image::Fl.jpg[alt=Fl,width=500px][orientation=portrait]
+image::Fl.jpg[alt=fl,width=500px][orientation=portrait]
