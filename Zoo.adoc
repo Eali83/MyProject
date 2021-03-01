@@ -35,4 +35,4 @@ Web,Location,Environment,URL,Status,Version
 |==========================|
 
 ## Adoc Strategy
-image::FlowchartM6[alt=ac,width=500px][orientation=center]
+image::FlowchartM6.gliffy[alt=ac,width=500px][orientation=center]
