@@ -6,7 +6,7 @@
 :ZOO_URL: https://www.pittsburghzoo.org/about/
 :ZOO_STATUS: Available
 :ZOO_VERSION: 1.0.1
-:Imagesdir: images
+:Imagesdir: image
 
 image::AC.jpg[alt=ac,width=500px][orientation=center] 
 
